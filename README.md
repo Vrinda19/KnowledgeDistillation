@@ -14,10 +14,10 @@ Student model:
 
 
 ----------------------------------------------
- Presentation contains 
- -- What is knowledge distillation?
- -- Need for knowledge distillation
- -- Other SOTA techniques for knowledge distillation
- -- My experiment 
- -- Future direction in this area 
+ ## Presentation contains 
+ -- What is knowledge distillation? \
+ -- Need for knowledge distillation \ 
+ -- Other SOTA techniques for knowledge distillation \
+ -- My experiment \
+ -- Future direction in this area \
 
